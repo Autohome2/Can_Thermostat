@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS(Beta) 3.0.22 - EFI Analytics, Inc." tuneComment="" writeDate="Tue May 09 01:56:38 BST 2017"/>
+<versionInfo fileFormat="5.0" firmwareInfo="" nPages="4" signature="speeduino_heat_master 201704"/>
+<page>
+<pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
+</page>
+<page number="0" size="128"/>
+<page number="1" size="128"/>
+<page number="2" size="128"/>
+<page number="3" size="128"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="enablehardware_test_OFF" value="enablehardware_test_OFF"/>
+<setting name="CAN_COMMANDS_OFF" value="CAN_COMMANDS_OFF"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>
